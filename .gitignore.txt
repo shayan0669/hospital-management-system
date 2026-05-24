@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+
+# CMake / Build folders
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+
+# Qt specific
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Executables
+*.exe
+*.out
+*.app
